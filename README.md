@@ -6,4 +6,4 @@ Valentina Chacón
 Estefany Jaramillo Vera
 
 # Taller1
-Arboles, Colas, Pilas en pyton
+Arboles, Colas, Pilas en Python
