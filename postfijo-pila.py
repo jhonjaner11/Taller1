@@ -47,4 +47,11 @@ def operar(o, y, x):
     if o=="/":
         z=x/y
     return z
+
+def start ():
+    print ("Escribe la lista de elementos en postfijo a ingresar: dentro de [] y separado por comas [a, b, +]")
+    lista=raw_input("Escribe la lista de elementos en postfijo a ingresar: dentro de [] y separado por comas [a, b, +]")
+    postfijo(lista)
+
     
+start()
