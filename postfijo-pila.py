@@ -49,9 +49,6 @@ def operar(o, y, x):
     return z
 
 def start ():
-    print ("Escribe la lista de elementos en postfijo a ingresar: dentro de [] y separado por comas [a, b, +]")
-    lista=raw_input("Escribe la lista de elementos en postfijo a ingresar: dentro de [] y separado por comas [a, b, +]")
-    postfijo(lista)
-
+    print ("Escribe la lista de elementos dentro de la funcion postfijo a ingresar dentro de [] y separado por comas [a, b, +]... ejemplo: postfijo([a, b, +]).  ")
     
 start()
