@@ -47,3 +47,4 @@ def operar(o, y, x):
     if o=="/":
         z=x/y
     return z
+    
